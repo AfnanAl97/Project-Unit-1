@@ -10,9 +10,7 @@ A simple project with a simple design that displays Rick and Morty cartoon chara
 
 projectUnit1.html
 
-```
-code blocks for commands
-```
+https://github.com/AfnanAl97
 
 ## The used API
 
